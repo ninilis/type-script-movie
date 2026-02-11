@@ -1,4 +1,4 @@
-import Movie from '../../ts/domain/Movie';
+import Movie from '../../domain/Movie';
 
 describe('Movie', () => {
   test('should create movie with all properties', () => {

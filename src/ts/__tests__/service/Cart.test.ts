@@ -1,5 +1,5 @@
-import Cart from '../../ts/service/Cart';
-import Movie from '../../ts/domain/Movie';
+import Cart from '../../service/Cart';
+import Movie from '../../domain/Movie';
 
 describe('Cart', () => {
   let cart: Cart;
